@@ -39,4 +39,4 @@ deepinfer-capacity-planner \
 
 ## ライセンス
 
-未定。
+[MIT](LICENSE)
